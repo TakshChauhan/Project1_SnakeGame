@@ -180,7 +180,7 @@ copies or substantial portions of the Software.
 ✅"Toroidal Gameplay"♾ that means teleportation of snake from one edge to another.
 ## 📞 Contact
 💡Found a bug or have suggestions? Open an issue or reach out:
--> 📧 Email : 202401241@daiict.ac.in
+-> 📧 Email : 202401223@daiict.ac.in
 -> GitHub : https://github.com/Taksh-1105
 
 
