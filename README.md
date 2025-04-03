@@ -181,7 +181,7 @@ copies or substantial portions of the Software.
 ## 📞 Contact
 💡Found a bug or have suggestions? Open an issue or reach out:
 -> 📧 Email : 202401223@daiict.ac.in
--> GitHub : https://github.com/Taksh-1105
+-> GitHub : https://github.com/TakshChauhan
 
 
 🎉 Thanks for going through this project! We Hope you enjoy playing! 🚀
